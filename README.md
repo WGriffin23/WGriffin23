@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WGriffin23
-- 👀 I’m interested in building my coding skills from the ground up. I have experience with Python and beginner level C. 
-- 🌱 I’m currently learning mathematics, statistics and economics at UChicago
-- 💞️ I’m looking to collaborate on any interesting projects in Python. Eventually I'd like to expand to other languages. Many of the projects I have completed for school are private due to Academic Integrity policies, but can be viewed by outside parties upon special request by myself as needed. 
+- 👀 I’m primarily interested in Statistics and Deep Learning. I have experience with Python, including NumPy, Pandas, and PyTorch
+- 🌱 I’m currently working on my MS in Computer Science from The University of Chicago
+- 💞️ I’m looking to collaborate on any interesting projects in Python. Many of the projects I have completed for school are private due to Academic Integrity policies, but can be viewed by outside parties upon special request by myself as needed. 
 - 📫 How to reach me: WGriffin23@UChicago.edu
 
 <!---
